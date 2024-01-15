@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -12,9 +11,9 @@
       <header>
        <h1 ><a href="{{ "/"|absolute_url}}">Brachie Erentroy</a></h1>
 <h2>Fullstack Developer</h2>
+          <h2>        The site is under constructions</h2>
 <p align="left>
   <img src="https://github.com/brachaer/brachaer.github.io/assets/145331020/bcde8ca1-e5ff-4f9f-b4b5-cc2c4ddcf2a0" alt="Image Description" height="300" style="border: 2px solid #333;">
-          <p> Hi everyone</p>
 
 </p>
 
